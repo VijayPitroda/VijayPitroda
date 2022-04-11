@@ -1,10 +1,3 @@
-'''
-CSCI 404A
-Deepak Rajasekhar Karishetti
-CSM
-'''
-
-
 # Importing modules
 import sys
 from queue import PriorityQueue
